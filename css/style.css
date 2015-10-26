@@ -1,0 +1,120 @@
+.categories{
+    width:150px;
+    height:100px;
+    background: red;
+    float: left;
+}
+.categories div a{
+    float:left;
+    text-decoration: none;
+    color:black;
+}
+.categories div select{
+    float:right;
+}
+.categories div{
+    width:100%;
+    height: 20px;
+}
+.playlist{
+    width:400px;
+    min-height:100px;
+    background: red;
+    margin:0px auto;
+}
+.savemp3{
+    width:240px;
+    min-height:100px;
+    background: red;
+    float: right;
+}
+.play{
+    width:400px;
+    min-height:50px;
+    background: blue;
+}
+.list{
+    width: 400px;
+    min-height: 20px;
+    background: yellow;
+    margin-top: 20px;
+}
+.next{
+    width: 100%;
+    height:50px;
+    background: wheat;
+    text-align: center;
+}
+.next a{
+    width: 100%;
+    height:20px;
+    background: green;
+    display: block;
+    font-size: 18px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.names{
+    width: 100%;
+    height:20px;
+    text-align: center;
+}
+.names a{
+    
+    text-decoration: none;
+    color: wheat;
+}
+.playCategorie{
+    width: 50px;
+    height: 20px;
+    background: green;
+    cursor: pointer;
+    float: left;
+    text-align: center
+}
+.playCategorie a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.songs{
+    width: 100%;
+    min-height: 50px;
+    color: wheat;
+}
+.savemp3 div{
+    text-align: center;
+    width: 100%;
+    height: 20px;
+}
+.savemp3 a{
+    text-decoration: none;
+    text-align: center;
+    color: wheat;
+}
+.catsa{
+    
+    text-decoration: none;
+    text-align: center;
+    color: wheat;
+}
+.lime{
+    height: 50px !important;
+}
+.creatId{
+    width: 100%;
+    min-height: 200px;
+    background: gray;
+}
+.lispan span{
+    margin: 20px;
+    color:black
+}
+.right{
+    width: 200px;
+    min-height: 50px;
+    background: #76C376;
+    float: right;
+}
